@@ -1,0 +1,1 @@
+pixelCity utilizes MapKit. You can double tap anywhere and it drops a pin then for that pin it passes the coordinates into the flickr ap. Afterwards, it downloads any photos geotagged within a mile radius of that pin. 3D touch is also integrated.
